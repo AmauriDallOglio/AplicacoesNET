@@ -62,8 +62,5 @@ namespace PedidoApi
 //│   └── launchSettings.json
 
 
-//Defina projetos múltiplos para inicializar:
-//Clique com o botão direito na solução(Solution) e vá em Properties.
-//Na aba Startup Project, selecione a opção Multiple startup projects.
-//Configure ambos os projetos(ClienteApi e PedidoApi) com a ação Start.
+//Defina projetos múltiplos para inicializar: Clique com o botão direito na solução(Solution) e vá em Properties, na aba Startup Project, selecione a opção Multiple startup projects, configure ambos os projetos(ClienteApi e PedidoApi) com a ação Start.
 
